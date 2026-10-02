@@ -1,0 +1,1706 @@
+{
+  "data": {
+    "events": {
+      "2023-24": [
+        {
+          "id": "code-vengers",
+          "title": "Code Vengers",
+          "image": "/event-images/CodeVengers.jpg",
+          "date": "21st March - 23th March, 2024",
+          "description": "Code-vengers is an 8-hour coding marathon where participants, typically in teams, are tasked with developing innovative solutions to real-world problems. Teams are given a theme or specific challenges at the start of the event, and they must brainstorm, design, and implement a functional prototype within the given time frame. The hackathon encourages participants to think critically and utilize their coding skills to create impactful and practical solutions. Judges evaluate the projects based on criteria like originality, feasibility, and technical complexity.",
+          "details": [
+            "Code-vengers is an 8-hour hackathon focused on solving real-world problems.",
+            "Teams collaborate to brainstorm, design, and implement a functional prototype.",
+            "The event emphasizes creativity, collaboration, and technical expertise.",
+            "Projects are judged on originality, feasibility, and technical complexity."
+          ],
+          "images": [
+            "/event-images/codevengers1.jpg",
+            "/event-images/codevengers3.jpg",
+            "/event-images/codevengers6.jpg"
+          ],
+          "videos": []
+        },
+        {
+          "id": "robo-race",
+          "title": "Robo Race",
+          "image": "/event-images/Roborace.jpg",
+          "date": "22nd March, 2024",
+          "description": "Robo-race is an exhilarating competition where teams design, build, and race their custom-built line-following robots. Participants use their knowledge of robotics, electronics, and programming to create robots capable of navigating a predefined track marked with lines. The robots must follow the track as quickly and accurately as possible, avoiding obstacles and handling various track configurations. The event tests the participants' engineering skills, including design optimization and algorithm development, as well as their ability to work under pressure.",
+          "details": [
+            "We created a challenging track with various obstacles and turns.",
+            "Teams enthusiastically designed and programmed their robots.",
+            "We conducted practice runs to help teams fine-tune their robots.",
+            "The final races were filled with excitement, enthusiastic participation, and cheering."
+          ],
+          "images": [
+            "/event-images/roboWin1.jpg",
+            "/event-images/robo1.jpg",
+            "/event-images/robo4.jpg"
+          ],
+          "videos": [
+            "/event-images/roboVideo1.mp4",
+            "/event-images/roboVideo2.mp4",
+            "/event-images/roboVideo3.mp4"
+          ]
+        },
+        {
+          "id": "code-decode",
+          "title": "Code Decode",
+          "image": "/event-images/Code-Decode.jpg",
+          "date": "21st March, 2024",
+          "description": "Code-decode is a rigorous coding competition that challenges participants to demonstrate their programming skills and problem-solving abilities. Competitors are presented with a series of coding problems of varying difficulty levels, which they must solve within a specified time limit. The problems cover a range of topics, including algorithms, data structures, and logical puzzles. Participants can use their preferred programming languages to write and submit their solutions.",
+          "details": [
+            "Code-Decode is a coding competition where participants solve problems within a time limit.",
+            "The event covers algorithms, data structures, and logical puzzles.",
+            "Participants can use their preferred programming languages for solutions.",
+            "Winners are chosen based on the accuracy and efficiency of their solutions."
+          ],
+          "images": [],
+          "videos": []
+        },
+        {
+          "id": "quiz-blast",
+          "title": "Quiz Blast",
+          "image": "/event-images/Quiz-Blast.jpg",
+          "date": "21st March, 2024",
+          "description": "Quiz-blast is an engaging tech-themed quiz competition designed to test participants' knowledge of technology, current trends, and general tech trivia. The quiz covers a wide array of topics, including software, hardware, programming languages, tech history, and recent advancements in the tech industry. Participants can compete individually or in teams, answering multiple-choice questions, true/false statements, and open-ended questions. The event is structured in rounds, with each round increasing in difficulty.",
+          "details": [
+            "Quiz-blast tests participants' tech knowledge across software, hardware, and current trends.",
+            "The competition includes multiple-choice, true/false, and open-ended questions.",
+            "Participants can compete individually or in teams in a round-based format.",
+            "The quiz gets progressively harder, fostering a competitive and fun atmosphere."
+          ],
+          "images": [
+            "/event-images/quiz1.jpg",
+            "/event-images/quiz2.jpg",
+            "/event-images/quiz3.jpg"
+          ],
+          "videos": []
+        },
+        {
+          "id": "e-waste",
+          "title": "E-Waste",
+          "image": "/event-images/E-Waste.jpg",
+          "date": "22nd March, 2024",
+          "description": "The E-Waste Art Expo is a unique exhibition that showcases creative art pieces made from electronic waste, promoting sustainability and environmental awareness. Participants are encouraged to use discarded electronic components, such as circuit boards, wires, and old gadgets, to create artistic and functional pieces. The expo aims to highlight the importance of recycling and reusing electronic waste, demonstrating how innovation and creativity can transform waste into valuable art.",
+          "details": [
+            "The E-Waste Art Expo showcases creative art made from discarded electronic components.",
+            "The event promotes sustainability by encouraging the reuse and recycling of e-waste.",
+            "Participants create artistic and functional pieces using circuit boards, wires, and old gadgets.",
+            "Exhibits are judged on creativity, originality, and effective use of e-waste materials."
+          ],
+          "images": [
+            "/event-images/ewaste1.jpg",
+            "/event-images/ewaste2.jpg",
+            "/event-images/ewaste3.jpg",
+            "/event-images/ewaste4.jpg",
+            "/event-images/ewaste5.jpg",
+            "/event-images/ewaste6.jpg"
+          ],
+          "videos": []
+        }
+      ],
+      "2024-25": [
+        {
+          "id": "ideathon",
+          "title": "Ideathon",
+          "image": "/event-images/events2024/Ideathon.jpg",
+          "date": "5th October, 2024",
+          "description": "The Innovation Challenge is an event where participants represent tech solutions to real-world problems.",
+          "details": [
+            "The challenge begins with ideation, where teams brainstorm ideas and define the problems.",
+            "Participants move to prototyping, building initial versions of their solutions.",
+            "Teams showcase their projects to judges, highlighting innovative approaches and technical skills."
+          ],
+          "images": [],
+          "videos": [],
+          "registrationLink": "https://forms.gle/wenMefQq6GkQoneSA",
+          "rulesLink": "/event-images/rulebook2024/Ideathon.pdf",
+          "eventType": "inter-college"
+        },
+        {
+          "id": "ai-art-competition",
+          "title": "AI Art Competition",
+          "image": "/event-images/events2024/Aiartcompetition.jpg",
+          "date": "5th October, 2024",
+          "description": "The AI Art Competition encourages participants to showcase their artistic skills using AI-generated art.",
+          "details": [
+            "Features tools like DALL-E for text-to-image generation and Deep Art for style transfer.",
+            "Explores the fusion of technology and creativity through AI-generated art.",
+            "Offers a platform to push the boundaries of art through artificial intelligence."
+          ],
+          "images": [],
+          "videos": [],
+          "registrationLink": "https://forms.gle/PZDY9UtchcPY6KHf6",
+          "rulesLink": "/event-images/rulebook2024/AI_Art.pdf",
+          "eventType": "inter-college"
+        },
+        {
+          "id": "tech-debate",
+          "title": "Tech Debate",
+          "image": "/event-images/events2024/Techdebate.jpg",
+          "date": "5th October, 2024",
+          "description": "The Tech Debates event invites participants to delve into some of the most controversial and pressing issues in the tech industry.",
+          "details": [
+            "Covers topics such as AI Ethics (bias, privacy, job displacement) and Data Privacy (security, surveillance, user rights).",
+            "Emerging Tech Trends like biotechnology, quantum computing, and space exploration are discussed.",
+            "Encourages thought-provoking discussions on the ethical implications of rapid technological advancement."
+          ],
+          "images": [],
+          "videos": [],
+          "registrationLink": "https://forms.gle/dxYqvm3VtqgS4YCJA",
+          "rulesLink": "/event-images/rulebook2024/Tech_Debate.pdf",
+          "eventType": "inter-college"
+        },
+        {
+          "id": "code-decode2",
+          "title": "Code Decode",
+          "image": "/event-images/events2024/CodeDecode.jpg",
+          "date": "4th October, 2024",
+          "description": "This event focuses on Coding Competitions designed to challenge and enhance coding skills through various difficulty levels. We can use renowned online platforms like Code Chef, Hacker Rank, and Leet Code to solve problems.",
+          "details": [
+            "The competition encourages coders of all levels.",
+            "Offers challenges categorized into beginner, intermediate, and advanced tiers.",
+            "Provides a structured way to sharpen programming abilities and compete with peers."
+          ],
+          "images": [],
+          "videos": [],
+          "registrationLink": "https://forms.gle/mi1qYJshDguyc9w4A",
+          "rulesLink": "/event-images/rulebook2024/Code_Decode.pdf",
+          "eventType": "intra-college"
+        },
+        {
+          "id": "robo-race2",
+          "title": "Robo Race",
+          "image": "/event-images/events2024/Roborace.jpg",
+          "date": "4th October, 2024",
+          "description": "The Robo-Race event challenges participants to design and race their own robots through an obstacle course filled with speed challenges and problem-solving tasks.",
+          "details": [
+            "Competitors must showcase their creativity and technical skills in robot design.",
+            "The competition involves time trials and obstacle navigation.",
+            "Provides a thrilling experience where innovation meets engineering prowess."
+          ],
+          "images": [],
+          "videos": [],
+          "registrationLink": "https://forms.gle/7weVVfFdmSXgp7B68",
+          "rulesLink": "/event-images/rulebook2024/Robo_Race.pdf",
+          "eventType": "intra-college"
+        },
+        {
+          "id": "tech-quiz",
+          "title": "Tech Quiz",
+          "image": "/event-images/events2024/TechQuiz.jpg",
+          "date": "5th October, 2024",
+          "description": "The Tech Quiz event is an exciting opportunity for participants to test their knowledge in various technology fields through engaging multiple-choice and buzzer rounds.",
+          "details": [
+            "Covers topics like Computer Science (algorithms, data structures), Current Trends (AI, blockchain), and General Engineering (basic electronics).",
+            "Focuses on both foundational concepts and emerging technologies.",
+            "Perfect for tech enthusiasts eager to challenge themselves and stay updated on advancements."
+          ],
+          "images": [],
+          "videos": [],
+          "registrationLink": "https://forms.gle/PKMtwmBryabZzaq89",
+          "rulesLink": "/event-images/rulebook2024/Tech_Quiz.pdf",
+          "eventType": "intra-college"
+        },
+        {
+          "id": "debugging-contest",
+          "title": "Debugging Contest",
+          "image": "/event-images/events2024/DebuggingContest.jpg",
+          "date": "4th October, 2024",
+          "description": "The Debugging Contest is a challenging mental puzzle that requires participants to think critically and work quickly to identify and fix errors in given code.",
+          "details": [
+            "Showcases participants' coding skills and ability to resolve programming errors.",
+            "Valuable learning experience offering deeper insights into common programming issues.",
+            "Develops effective debugging strategies applicable to future projects."
+          ],
+          "images": [],
+          "videos": [],
+          "registrationLink": "https://forms.gle/id4V5C5EaijBZuzN7",
+          "rulesLink": "/event-images/rulebook2024/Debugging_Contest.pdf",
+          "eventType": "intra-college"
+        },
+        {
+          "id": "aptitude-test",
+          "title": "Aptitude Test",
+          "image": "/event-images/events2024/AptitudeTest.jpg",
+          "date": "5th October, 2024",
+          "description": "The Aptitude Test assesses skills in logical reasoning, quantitative analysis, and tech knowledge.",
+          "details": [
+            "Tests cognitive abilities and problem-solving skills.",
+            "Covers sections like Logical Reasoning, Quantitative Skills, and Tech Knowledge.",
+            "Evaluates students' understanding and preparedness for future technical challenges."
+          ],
+          "images": [],
+          "videos": [],
+          "registrationLink": "https://forms.gle/wwbnhSU7u1du72cg8",
+          "rulesLink": "/event-images/rulebook2024/Aptitude_Test.pdf",
+          "eventType": "intra-college"
+        },
+        {
+          "id": "algorithms-pseudocode",
+          "title": "Algorithms & Pseudocode",
+          "image": "/event-images/events2024/AlgorithmPseudocode.jpg",
+          "date": "4th October, 2024",
+          "description": "The Algorithms & Pseudocode event involves participants identifying and solving real-world problems by creating pseudocode.",
+          "details": [
+            "Three-step process: identify problem, design logical approach, and express it in pseudocode.",
+            "Develops critical thinking and logical reasoning skills.",
+            "Essential for solving real-world challenges effectively."
+          ],
+          "images": [],
+          "videos": [],
+          "registrationLink": "https://forms.gle/MNNFpxkXun8gTHXC9",
+          "rulesLink": "/event-images/rulebook2024/Algo_Pseudo.pdf",
+          "eventType": "intra-college"
+        },
+        {
+          "id": "tech-crossword",
+          "title": "Tech Crossword",
+          "image": "/event-images/events2024/TechCrossword.jpg",
+          "date": "4th October, 2024",
+          "description": "The Tech Crossword offers a unique opportunity to test technical knowledge and problem-solving skills in a fun environment.",
+          "details": [
+            "Participants can compete individually or in teams.",
+            "Combines word searches with coding puzzles.",
+            "Offers chances to win prizes and network with fellow tech enthusiasts."
+          ],
+          "images": [],
+          "videos": [],
+          "registrationLink": "https://forms.gle/sMomb1fu5bakzvV99",
+          "rulesLink": "/event-images/rulebook2024/Tech_Crossword_Challenge.pdf",
+          "eventType": "intra-college"
+        },
+        {
+          "id": "tech-treasure-hunt",
+          "title": "Tech Treasure Hunt",
+          "image": "/event-images/events2024/TechTreasureHunt.jpg",
+          "date": "5th October, 2024",
+          "description": "The Tech Treasure Hunt combines coding challenges and problem-solving tasks with a treasure hunt adventure.",
+          "details": [
+            "Participants solve coding puzzles to uncover clues.",
+            "Includes problem-solving challenges related to logic and algorithms.",
+            "A fun and engaging event to test technical skills in an adventurous setting."
+          ],
+          "images": [],
+          "videos": [],
+          "registrationLink": "https://forms.gle/VaSgTuseZrwPr4bY6",
+          "rulesLink": "/event-images/rulebook2024/Tech_Treasure_Hunt.pdf",
+          "eventType": "intra-college"
+        },
+        {
+          "id": "virtual-reality-demos",
+          "title": "Virtual Reality Demos",
+          "image": "/event-images/events2024/VirtualReality.jpg",
+          "date": "",
+          "description": "The Virtual Reality Demos event offers participants a unique opportunity to explore immersive experiences across various fields.",
+          "details": [
+            "Showcases VR's potential in revolutionizing education, gaming, and connectivity.",
+            "Offers engaging, immersive experiences in various fields.",
+            "Highlights the future impact of VR on how we learn and interact."
+          ],
+          "images": [],
+          "videos": [],
+          "registrationLink": "",
+          "rulesLink": "/event-images/rulebook2024/VR_Demos.pdf",
+          "eventType": "fun-event"
+        },
+        {
+          "id": "car-racing",
+          "title": "Car Racing",
+          "image": "/event-images/events2024/CarRacing.jpg",
+          "date": "",
+          "description": "Join us for the Car Racing Fun Event, where speed and excitement collide for an unforgettable experience.",
+          "details": [],
+          "images": [],
+          "videos": [],
+          "registrationLink": "",
+          "rulesLink": "/event-images/rulebook2024/Car_Racing.pdf",
+          "eventType": "fun-event"
+        }
+      ],
+      "2025-26": [
+        {
+          "id": "ideathon",
+          "title": "Ideathon",
+          "image": "/event-images/Events2025/Inter_college/Ideathon.jpg",
+          "date": "23rd September, 2025",
+          "description": "Ideas that ignite change.",
+          "details": [
+            "Ideathon is a brainstorming competition where participants tackle real-world challenges with innovative solutions.",
+            "Teams identify pressing problems, ideate creative strategies, and present their ideas in a structured way.",
+            "The event emphasizes originality, practicality, and clarity."
+          ],
+          "images": [],
+          "videos": [],
+          "registrationLink": "https://forms.gle/k65wMNwxb4PjS34a6",
+          "rulebookPdf": "/event-images/rulebook2025/ideathon.pdf",
+          "eventType": "inter-college"
+        },
+        {
+          "id": "ai-art-competition",
+          "title": "AI Art Competition",
+          "image": "/event-images/Events2025/Inter_college/Ai-Art.jpg",
+          "date": "23rd September, 2025",
+          "description": "Creativity meets code.",
+          "details": [
+            "The Al Art Competition showcases how artificial intelligence can fuel imagination.",
+            "Participants generate artistic visuals using Al-based tools and techniques.",
+            "The event highlights the synergy between technology and creativity."
+          ],
+          "images": [],
+          "videos": [],
+          "registrationLink": "https://forms.gle/kRbrbcenvsWtTJFr9",
+          "rulebookPdf": "/event-images/rulebook2025/pirate_of_the_seven_seas.pdf",
+          "eventType": "inter-college"
+        },
+        {
+          "id": "tech-debate",
+          "title": "Tech Debate",
+          "image": "/event-images/Events2025/Inter_college/Tech-Debate.jpg",
+          "date": "23rd September, 2025",
+          "description": "Speak. Argue. Persuade.",
+          "details": [
+            "This event provides a formal stage for critical discussions on emerging technologies.",
+            "Participants argue their stance with evidence, logic, and persuasive communication. ",
+            "Encourages thought-provoking discussions on the ethical implications of rapid technological advancement."
+          ],
+          "images": [],
+          "videos": [],
+          "registrationLink": "https://docs.google.com/forms/d/e/1FAIpQLSdqRlKlfxhVmnqNxMXyjO_2bpznKTLXFrV7gTPqxkFw4Xnhgw/viewform",
+          "rulebookPdf": "/event-images/rulebook2025/Tech_Debate.pdf",
+          "eventType": "inter-college"
+        },
+        {
+          "id": "code-decode2",
+          "title": "Code Decode",
+          "image": "/event-images/Events2025/Intra_college/code_decode.jpg",
+          "date": "22nd september, 2025",
+          "description": "Think. Code. Conquer.",
+          "details": [
+            "Code Decode is the ultimate test of programming precision and logic.",
+            "Participants face algorithmic challenges designed to measure speed, structure, and problem-solving finesse.",
+            "The event creates the perfect space to sharpen coding skills in a competitive environment."
+          ],
+          "images": [],
+          "videos": [],
+          "registrationLink": "https://forms.gle/tr7aZdxrQxHW637K7",
+          "rulebookPdf": "/event-images/rulebook2025/Code_Decode.pdf",
+          "eventType": "intra-college"
+        },
+        {
+          "id": "robo-race2",
+          "title": "Robo Race",
+          "image": "/event-images/Events2025/Intra_college/roborace.jpg",
+          "date": "22nd September, 2025",
+          "description": "Where machines meet speed.",
+          "details": [
+            "In ROBO-RACE 3.0, creativity takes shape as participants design robots to dash across challenging tracks.",
+            "Each bot must withstand turns, slopes, and barriers while racing against time.",
+            "The event emphasizes speed, mechanical precision, and structural durability."
+          ],
+          "images": [],
+          "videos": [],
+          "registrationLink": "https://docs.google.com/forms/d/e/1FAIpQLScOOonYjbsUdGHzrLcqL9KtvQt80-sKByZkuBDW8IySIWABRg/viewform",
+          "rulebookPdf": "/event-images/rulebook2025/roborace.pdf",
+          "eventType": "intra-college"
+        },
+        {
+          "id": "tech-quiz",
+          "title": "Tech Quiz",
+          "image": "/event-images/Events2025/Intra_college/tech_quiz.jpg",
+          "date": "22nd September, 2025",
+          "description": "Fast questions, faster minds.",
+          "details": [
+            "Tech Quiz Rapid Fire transforms knowledge into an adrenaline-driven challenge.",
+            "Participants are tested on science, engineering, and technology through rapid-fire questioning",
+            "It’s a blend of intellectual excitement and technical depth, keeping everyone on the edge till the final buzzer."
+          ],
+          "images": [],
+          "videos": [],
+          "registrationLink": "https://docs.google.com/forms/d/e/1FAIpQLSeNTxpn9JuztTbFF34hrxARZuflsvzU6NzM9ZZLXYlGZXJdTw/viewform",
+          "rulebookPdf": "/event-images/rulebook2025/Tech_Quiz–Rapid_Fire.pdf",
+          "eventType": "intra-college"
+        },
+        {
+          "id": "captain-compiler",
+          "title": "Captain’s Compiler ◄",
+          "image": "/event-images/Events2025/Intra_college/captain_compiler.jpg",
+          "date": "22nd September, 2025",
+          "description": "Debug. Optimize. Pass it on.",
+          "details": [
+            "Captain’s Compiler is a relay-style programming battle where teamwork decides the outcome.",
+            "Each participant receives code, debugs it, and hands it over to the next teammate.The chain continues until the final solution is delivered. ",
+            " It mirrors real-world collaborative coding while building trust and strategy among peers. "
+          ],
+          "images": [],
+          "videos": [],
+          "registrationLink": "https://docs.google.com/forms/d/e/1FAIpQLScXVKxJb--uLEiR9sDCVKYjoYCNOrmwvWyBhis4ljlN9cA4pA/viewform?usp=header",
+          "rulebookPdf": "/event-images/rulebook2025/captain_complier.pdf",
+          "eventType": "intra-college"
+        },
+        {
+          "id": "Mock-interview",
+          "title": "Mock Interview",
+          "image": "/event-images/Events2025/Intra_college/mock_interview.jpg",
+          "date": "22nd September, 2025",
+          "description": "Practice before the pressure.",
+          "details": [
+            "Mock Interview replicates real recruitment environments to prepare students for professional success.",
+            "Participants undergo technical and HR-style questioning while receiving valuable feedback.",
+            "The event helps students identify strengths and areas of improvement. It ensures they walk into actual interviews with confidence, clarity, and readiness. "
+          ],
+          "images": [],
+          "videos": [],
+          "registrationLink": "https://forms.gle/vepE1ynZqAjC9R3Y9",
+          "rulebookPdf": "/event-images/rulebook2025/Mock_Interview.pdf",
+          "eventType": "intra-college"
+        },
+        {
+          "id": "Pirate-of-query-bean",
+          "title": "Pirates Of Query Bean",
+          "image": "/event-images/Events2025/Intra_college/pirates_of_query_bean.jpg",
+          "date": "22nd September, 2025",
+          "description": "Practice before the pressure.",
+          "details": [
+            "Mock Interview replicates real recruitment environments to prepare students for professional success.",
+            "Participants undergo technical and HR-style questioning while receiving valuable feedback.",
+            "The event helps students identify strengths and areas of improvement. It ensures they walk into actual interviews with confidence, clarity, and readiness. "
+          ],
+          "images": [],
+          "videos": [],
+          "registrationLink": "https://docs.google.com/forms/d/e/1FAIpQLSfKJptabjRzdKQGGWCg9_JYPwiJsLzkMGw0GOHbehDAYE134w/viewform?usp=sharing&ouid=109849593390301289155",
+          "rulebookPdf": "/event-images/rulebook2025/Pirates_Of_Query_Bean.pdf",
+          "eventType": "intra-college"
+        },
+        {
+          "id": "tech-treasure-hunt",
+          "title": "Tech Treasure Hunt",
+          "image": "/event-images/Events2025/Intra_college/treasurehunt.jpg",
+          "date": "22nd September, 2025",
+          "description": "Clues. Codes. Conquest.",
+          "details": [
+            "Tech Treasure Hunt combines the thrill of adventure with intellectual problem-solving.",
+            "Participants solve clues and puzzles that gradually lead to hidden prizes. The event requires logic, quick thinking, and coordinated teamwork.",
+            "It transforms treasure hunting into a stimulating challenge driven by technical wit. "
+          ],
+          "images": [],
+          "videos": [],
+          "registrationLink": "https://forms.gle/VaSgTuseZrwPr4bY6",
+          "rulesLink": "/event-images/rulebook2024/Tech_Treasure_Hunt.pdf",
+          "eventType": "intra-college"
+        },
+        {
+          "id": "virtual-reality-demos",
+          "title": "Virtual Reality Demos",
+          "image": "/event-images/Events2025/Intra_college/virtual_reality.jpg",
+          "date": "22nd-23rd September,2025",
+          "description": "Step beyond the screen.",
+          "details": [
+            "The Virtual Reality Demo showcases the immersive world of VR applications.",
+            "Students get a chance to experience interactive simulations in fields such as healthcare, gaming, and education.",
+            " It highlights how VR blends the real and digital worlds to transform experiences. The session offers an informative yet exciting look into future technologies."
+          ],
+          "images": [],
+          "videos": [],
+          "registrationLink": "",
+          "rulesLink": "/event-images/rulebook2024/VR_Demos.pdf",
+          "eventType": "fun-event"
+        },
+        {
+          "id": "Map-Mayhem",
+          "title": "Map Mayhem",
+          "image": "/event-images/Events2025/Intra_college/map_mayhem.jpg",
+          "date": "22nd-23rd September,2025",
+          "description": "Blind trust. Sharp minds.",
+          "details": [
+            "Map Mayhem is a navigation-based challenge that puts teamwork to the test.",
+            "Blindfolded participants must rely entirely on their teammates for directions. The event requires strategic communication, trust, and precise coordination.",
+            "It highlights how VR blends the real and digital worlds to transform experiences. The session offers an informative yet exciting look into future technologies."
+          ],
+          "images": [],
+          "videos": [],
+          "registrationLink": "https://docs.google.com/forms/d/e/1FAIpQLSe0cbxdEmg68nvcYXJ-HbGGEt5fln2a65UatWQFVKiMegkEzw/viewform?usp=sharing&ouid=115325871061065758356",
+          "rulebookPdf": "/event-images/rulebook2025/Map_Mayhem.pdf",
+          "eventType": "fun-event"
+        },
+        {
+          "id": "Tech-Charades",
+          "title": "Tech charades",
+          "image": "/event-images/Events2025/Intra_college/tech_sharades.jpg",
+          "date": "22nd-23rd September,2025",
+          "description": "Act it out, guess it right.",
+          "details": [
+            "Tech Charades brings a playful twist to technical learning. ",
+            "One participant acts out scientific or technical terms without speaking, while teammates attempt to guess. The event encourages creativity, teamwork, and quick thinking. ",
+            "It blends technical knowledge with an engaging, entertaining format."
+          ],
+          "images": [],
+          "videos": [],
+          "registrationLink": "",
+          "rulesLink": "/event-images/rulebook2024/VR_Demos.pdf",
+          "eventType": "fun-event"
+        }
+      ],
+      "2026-27": [
+        {
+          "id": "ideathon-2026",
+          "title": "Ideathon",
+          "image": "/event-images/Events2026/Inter_college/Ideathon.jpeg",
+          "date": "10th October, 2026",
+          "description": "Ideas that ignite change.",
+          "details": [
+            "Ideathon is a brainstorming competition where participants tackle real-world challenges with innovative solutions.",
+            "Teams identify pressing problems, ideate creative strategies, and present their ideas in a structured way.",
+            "Prize pool up to Rs. 25,000. Free entry for CSI members."
+          ],
+          "images": [],
+          "videos": [],
+          "registrationLink": "https://forms.gle/9ir3rzy9sHoufh7PA",
+          "rulebookPdf": "",
+          "eventType": "inter-college"
+        },
+        {
+          "id": "the-courtroom",
+          "title": "The Courtroom",
+          "image": "/event-images/Events2026/Inter_college/The-Courtroom.jpeg",
+          "date": "10th October, 2026",
+          "description": "Argue the case. Win the verdict.",
+          "details": [
+            "The Courtroom puts participants through a simulated legal-style battle of arguments and evidence.",
+            "Teams present, cross-examine, and defend their stance under time pressure.",
+            "Entry fee Rs. 200. Prize pool up to Rs. 25,000."
+          ],
+          "images": [],
+          "videos": [],
+          "registrationLink": "https://docs.google.com/forms/d/e/1FAIpQLSdGSnpcwQ4U5ESMGfCekdm33zsKCsnCydmAPr51wbHQ3ByBJg/viewform?usp=publish-editor",
+          "rulebookPdf": "",
+          "eventType": "inter-college"
+        },
+        {
+          "id": "design-detective",
+          "title": "Design Detective",
+          "image": "/event-images/Events2026/Inter_college/Design-Detective.jpeg",
+          "date": "9th - 10th October, 2026",
+          "description": "Empathize. Ideate. Prototype. Solve.",
+          "details": [
+            "Design Detective is a UI/UX challenge that takes participants through the full design thinking process.",
+            "From user research and wireframes to prototyping and usability testing, teams design real solutions to real problems.",
+            "Entry fee Rs. 150. Prize pool up to Rs. 25,000."
+          ],
+          "images": [],
+          "videos": [],
+          "registrationLink": "https://forms.gle/CtmAsepVZbicmCsg7",
+          "rulebookPdf": "",
+          "eventType": "inter-college"
+        },
+        {
+          "id": "crack-the-code",
+          "title": "Crack the Code",
+          "image": "/event-images/Events2026/Intra_college/Crack-The-Code.jpeg",
+          "date": "9th - 10th October, 2026",
+          "description": "Decode. Debug. Deliver.",
+          "details": [
+            "Crack the Code is a competitive programming challenge testing logic, speed, and problem-solving under pressure.",
+            "Participants work through algorithmic puzzles designed to push their coding skills to the limit.",
+            "Entry fee Rs. 150. Prize pool up to Rs. 25,000."
+          ],
+          "images": [],
+          "videos": [],
+          "registrationLink": "https://forms.gle/pRDDqmbo329NcCu26",
+          "rulebookPdf": "",
+          "eventType": "intra-college"
+        },
+        {
+          "id": "the-mind-palace",
+          "title": "The Mind Palace",
+          "image": "/event-images/Events2026/Intra_college/The-Mind-Palace.jpeg",
+          "date": "9th - 10th October, 2026",
+          "description": "Not just what you know, but how you think.",
+          "details": [
+            "The Mind Palace challenges participants across logic, reasoning, problem solving, cybersecurity, and data science.",
+            "A test of sharp thinking and quick decision-making under time constraints.",
+            "Entry fee Rs. 50. Prize pool up to Rs. 25,000."
+          ],
+          "images": [],
+          "videos": [],
+          "registrationLink": "https://docs.google.com/forms/d/e/1FAIpQLSfOLI_qv9q_znlF-7IZHdkyG0VwozHKQ0mK8GIhUEHi5OMYww/viewform?usp=publish-editor",
+          "rulebookPdf": "",
+          "eventType": "intra-college"
+        },
+        {
+          "id": "the-watson-test",
+          "title": "The Watson Test",
+          "image": "/event-images/Events2026/Intra_college/The-Watson-Test.jpeg",
+          "date": "9th - 10th October, 2026",
+          "description": "Observe. Deduce. Prove.",
+          "details": [
+            "The Watson Test puts participants' observation and deduction skills to the test through a series of puzzles and clues.",
+            "Inspired by classic detective reasoning, it rewards sharp attention to detail.",
+            "Details to be announced."
+          ],
+          "images": [],
+          "videos": [],
+          "registrationLink": "https://docs.google.com/forms/d/e/1FAIpQLSeIAC2Q4n6RjWd5v5ifJs3j3U3smi00aNi2alP1DlBfLVo63g/viewform?usp=publish-editor",
+          "rulebookPdf": "",
+          "eventType": "intra-college"
+        },
+        {
+          "id": "bug-detective",
+          "title": "Bug Detective",
+          "image": "/event-images/Events2026/Intra_college/Bug-Detective.jpeg",
+          "date": "9th - 10th October, 2026",
+          "description": "Every bug leaves a trail.",
+          "details": [
+            "Bug Detective is a debugging challenge where participants hunt down and fix hidden errors in code under time pressure.",
+            "It rewards sharp eyes, strong fundamentals, and methodical thinking.",
+            "Entry fee Rs. 150. Prize pool up to Rs. 25,000."
+          ],
+          "images": [],
+          "videos": [],
+          "registrationLink": "https://docs.google.com/forms/d/e/1FAIpQLSdnMvoep_bcFq57wtyXyNm27TBgUDGFrjZw7-6gjs4LmcYwrA/viewform?usp=header",
+          "rulebookPdf": "",
+          "eventType": "intra-college"
+        },
+        {
+          "id": "sherlocks-solution",
+          "title": "Sherlock's Solution",
+          "image": "/event-images/Events2026/Intra_college/Sherlocks-Solution.jpeg",
+          "date": "9th - 10th October, 2026",
+          "description": "Think like Holmes. Crack the problem. Pitch the solution.",
+          "details": [
+            "Sherlock's Solution is a problem-solving challenge where teams analyse a given problem, identify its core challenges, and develop an effective solution.",
+            "It rewards critical thinking, creativity, innovation, feasibility, and the ability to communicate ideas convincingly under time pressure.",
+            "Teams of 3 members will get 20 minutes to develop their solution, followed by a 3-minute pitch to the judges.",
+            "Entry fee Rs. 100. Prize pool up to Rs. 25,000."
+          ],
+          "images": [],
+          "videos": [],
+          "registrationLink": "https://docs.google.com/forms/d/e/1FAIpQLSd2yin8iZcn6GD2SoN-dT3MCsgXFuHFzEXKUdhcWahzZfXoiA/viewform?usp=publish-editor",
+          "rulebookPdf": "",
+          "eventType": "intra-college"
+        },
+        {
+          "id": "the-missing-clue",
+          "title": "The Missing Clue",
+          "image": "/event-images/Events2026/Fun_event/The-Missing-Clue.jpeg",
+          "date": "9th - 10th October, 2026",
+          "description": "Some clues are hidden in plain sight.",
+          "details": [
+            "The Missing Clue is a mystery-solving fun event where participants piece together scattered clues to reach the answer.",
+            "A light, engaging challenge that rewards curiosity and teamwork.",
+            "Entry fee Rs. 200. Prize pool up to Rs. 25,000."
+          ],
+          "images": [],
+          "videos": [],
+          "registrationLink": "",
+          "rulebookPdf": "",
+          "eventType": "fun-event"
+        },
+        {
+          "id": "mystery-in-motion",
+          "title": "Mystery in Motion",
+          "image": "/event-images/Events2026/Fun_event/Mystery-in-Motion.jpeg",
+          "date": "9th - 10th October, 2026",
+          "description": "The game is afoot.",
+          "details": [
+            "Mystery in Motion is a fun, activity-based event built around movement, quick thinking, and playful mystery-solving.",
+            "A light-hearted event designed for everyone to enjoy.",
+            "Details to be announced."
+          ],
+          "images": [],
+          "videos": [],
+          "registrationLink": "",
+          "rulebookPdf": "",
+          "eventType": "fun-event"
+        },
+        {
+          "id": "the-detectives-map",
+          "title": "The Detective's Map",
+          "image": "/event-images/Events2026/Fun_event/The-Detectives-Map.jpeg",
+          "date": "9th - 10th October, 2026",
+          "description": "Every path leads to a clue.",
+          "details": [
+            "The Detective's Map is a trail-based fun event where participants navigate clues to find their way to the answer.",
+            "Combines exploration with quick problem-solving in a relaxed, fun format.",
+            "Entry fee Rs. 50."
+          ],
+          "images": [],
+          "videos": [],
+          "registrationLink": "",
+          "rulebookPdf": "",
+          "eventType": "fun-event"
+        },
+        {
+          "id": "silent-clues",
+          "title": "Silent Clues",
+          "image": "/event-images/Events2026/Fun_event/Silent-Clues.jpeg",
+          "date": "9th - 10th October, 2026",
+          "description": "Small clues, big discoveries.",
+          "details": [
+            "Silent Clues tests logic, observation, teamwork, and strategy through a series of silent puzzle rounds.",
+            "A fun, fast-paced event where communication happens without words.",
+            "Entry fee Rs. 20."
+          ],
+          "images": [],
+          "videos": [],
+          "registrationLink": "",
+          "rulebookPdf": "",
+          "eventType": "fun-event"
+        },
+        {
+          "id": "hear-the-clue",
+          "title": "Hear the Clue",
+          "image": "/event-images/Events2026/Fun_event/Hear-The-Clue.jpeg",
+          "date": "9th - 10th October, 2026",
+          "description": "Listen closely, the answer is in the sound.",
+          "details": [
+            "Hear the Clue is an audio-based mystery event where participants identify clues hidden in sounds and music.",
+            "A fun test of listening skills and quick thinking.",
+            "Entry fee Rs. 20."
+          ],
+          "images": [],
+          "videos": [],
+          "registrationLink": "",
+          "rulebookPdf": "",
+          "eventType": "fun-event"
+        }
+      ]
+    },
+    "workshops": {
+      "2023-24": [
+        {
+          "id": "web-development",
+          "title": "Edutech",
+          "image": "/event-images/webdev.jpg",
+          "description": "",
+          "details": [],
+          "images": [],
+          "videos": []
+        },
+        {
+          "id": "android-development",
+          "title": "Android Development",
+          "image": "/event-images/Andev.jpg",
+          "description": "",
+          "details": [],
+          "images": [],
+          "videos": []
+        }
+      ],
+      "2024-25": [],
+      "2026-27": []
+    },
+    "faculty": [
+      {
+        "name": "Prof. Ranjana Singh",
+        "position": "Branch Councillor & President of CSI-WIET",
+        "image": "/event-images/mam1.jpg"
+      },
+      {
+        "name": "Prof. Rucha Patwardhan",
+        "position": "Faculty Memeber of CSI-WIET",
+        "image": "/event-images/mam3.jpg"
+      },
+      {
+        "name": "Prof. Rahila Shaikh",
+        "position": "Faculty Memeber of CSI-WIET",
+        "image": "/event-images/mam4.jpg"
+      }
+    ],
+    "committee": {
+      "2023-24": [
+        {
+          "highlight": "/event-images/CSI_Team(2024-25).jpg"
+        },
+        {
+          "name": "Atharva Khetale",
+          "position": "Chairperson",
+          "image": "/event-images/chairperson.jpg",
+          "linkedin": "https://www.linkedin.com/in/atharva-khetale-01210226b/",
+          "github": "https://github.com/OmkarM9090"
+        },
+        {
+          "name": "Chaitanya Chaudhari",
+          "position": "Secretary",
+          "image": "/event-images/secretry.jpg",
+          "linkedin": "https://www.linkedin.com/in/chaitanya-choudhari-35703a25a/"
+        },
+        {
+          "name": "Shardul Diwakar",
+          "position": "Co-Secretary",
+          "image": "/event-images/co-secretry.jpg",
+          "linkedin": "https://www.linkedin.com/in/shardul-diwakar-7191011b9"
+        },
+        {
+          "name": "Esha Gond",
+          "position": "Co-Secretary",
+          "image": "/event-images/co-secretary2.jpg",
+          "linkedin": "https://www.linkedin.com/in/esha-gond-b7b79b324"
+        },
+        {
+          "name": "Sanika Malvi",
+          "position": "Treasurer Head",
+          "image": "/event-images/treasure-head.jpg",
+          "linkedin": "https://www.linkedin.com/in/sanika-malvi-562990297"
+        },
+        {
+          "name": "Siddhi Panhale",
+          "position": "Treasurer Co-Head",
+          "image": "/event-images/treasure-co-head.jpg",
+          "linkedin": "https://www.linkedin.com/in/siddhi-panhale"
+        },
+        {
+          "name": "Udhay Chugh",
+          "position": "Technical Head",
+          "image": "/event-images/tech-head.jpg",
+          "linkedin": "https://www.linkedin.com/in/udhay-chugh-a7065b268/"
+        },
+        {
+          "name": "Gulshan Thawani",
+          "position": "Technical Co-Head",
+          "image": "/event-images/tech-co-head.jpg",
+          "linkedin": "https://www.linkedin.com/in/gulshan-thawani-263a72148/"
+        },
+        {
+          "name": "Shivam Pandey",
+          "position": "Media Head",
+          "image": "/event-images/media-head.jpg",
+          "linkedin": "https://www.linkedin.com/in/shivam-pandey7820/"
+        },
+        {
+          "name": "Soumya Das",
+          "position": "Media Co-Head",
+          "image": "/event-images/media-co-head.jpg",
+          "linkedin": "https://www.linkedin.com/in/soumya-das-97b59a209"
+        },
+        {
+          "name": "Dhanraj Banglurkar",
+          "position": "Logistic Head",
+          "image": "/event-images/logistic-head.jpg",
+          "linkedin": "https://www.linkedin.com/in/dhanraj-banglurkar-d2275"
+        },
+        {
+          "name": "Sakshi Kalbhor",
+          "position": "Logistic Co-Head",
+          "image": "/event-images/logistic-co-head.jpg",
+          "linkedin": "https://www.linkedin.com/in/sakshi-kalbhor-53a779324"
+        }
+      ],
+      "2024-25": [
+        {
+          "highlight": "/event-images/CSI_Team(2024-25).jpg"
+        },
+        {
+          "name": "Athrava Khelte",
+          "position": "Chairperson",
+          "image": "/event-images/chairperson.jpg",
+          "linkedin": "https://www.linkedin.com/in/atharva-khetale-01210226b/",
+          "github": "https://github.com/OmkarM9090"
+        },
+        {
+          "name": "Chaitanya Chaudhari",
+          "position": "Secretary",
+          "image": "/event-images/secretry.jpg",
+          "linkedin": "https://www.linkedin.com/in/chaitanya-choudhari-35703a25a/"
+        },
+        {
+          "name": "Shardul Diwakar",
+          "position": "Co-Secretary",
+          "image": "/event-images/co-secretry.jpg",
+          "linkedin": "https://www.linkedin.com/in/shardul-diwakar-7191011b9"
+        },
+        {
+          "name": "Esha Gond",
+          "position": "Co-Secretary",
+          "image": "/event-images/co-secretary2.jpg",
+          "linkedin": "#"
+        },
+        {
+          "name": "Sanika Malvi",
+          "position": "Treasurer Head",
+          "image": "/event-images/treasure-head.jpg",
+          "linkedin": "https://www.linkedin.com/in/dhanraj-banglurkar-d2275"
+        },
+        {
+          "name": "Siddhi Panhale",
+          "position": "Treasurer Co-Head",
+          "image": "/event-images/treasure-co-head.jpg",
+          "linkedin": "https://www.linkedin.com/in/dhanraj-banglurkar-d2275"
+        },
+        {
+          "name": "Udhay Chugh",
+          "position": "Technical Head",
+          "image": "/event-images/tech-head.jpg",
+          "linkedin": "https://www.linkedin.com/in/udhay-chugh-a7065b268/"
+        },
+        {
+          "name": "Gulshan Thawani",
+          "position": "Technical Co-Head",
+          "image": "/event-images/tech-co-head.jpg",
+          "linkedin": "https://www.linkedin.com/in/gulshan-thawani-263a72148/"
+        },
+        {
+          "name": "Shivam Pandey",
+          "position": "Media Head",
+          "image": "/event-images/media-head.jpg",
+          "linkedin": "https://www.linkedin.com/in/shivam-pandey7820/"
+        },
+        {
+          "name": "Soumya Das",
+          "position": "Media Co-Head",
+          "image": "/event-images/media-co-head.jpg",
+          "linkedin": "https://www.linkedin.com/in/soumya-das-97b59a209"
+        },
+        {
+          "name": "Dhanraj Banglurkar",
+          "position": "Logistic Head",
+          "image": "/event-images/logistic-head.jpg",
+          "linkedin": "https://www.linkedin.com/in/dhanraj-banglurkar-d2275"
+        },
+        {
+          "name": "Sakshi Kalbhor",
+          "position": "Logistic Co-Head",
+          "image": "/event-images/logistic-co-head.jpg",
+          "linkedin": "https://www.linkedin.com/in/sakshi-kalbhor-53a779324"
+        }
+      ],
+      "2025-26": [
+        {
+          "highlight": "/event-images/committee_2025/core_committee2025.jpg"
+        },
+        {
+          "name": "Praneet Poojary",
+          "position": "Chairperson",
+          "image": "/event-images/committee_2025/chairperson.jpg",
+          "linkedin": "https://in.linkedin.com/in/p-praneet",
+          "github": "https://github.com/nothingmatters4?"
+        },
+        {
+          "name": "Aarya Kadam",
+          "position": "Secretary",
+          "image": "/event-images/committee_2025/co_secretary.jpg",
+          "linkedin": "https://www.linkedin.com/in/aarya-kadam-4a501237b",
+          "github": "https://github.com/aaryak11"
+        },
+        {
+          "name": "Snehal Davane",
+          "position": "Co-Secretary",
+          "image": "/event-images/committee_2025/Sammy_davane.jpg",
+          "linkedin": "",
+          "github": ""
+        },
+        {
+          "name": "Manjiri Channe",
+          "position": "Treasurer",
+          "image": "/event-images/committee_2025/treasurer.jpg",
+          "linkedin": "https://www.linkedin.com/in/manjiri-channe-18102a380",
+          "github": "https://github.com/manjirichanne20-cell"
+        },
+        {
+          "name": "Akshatraj Yadav",
+          "position": "Co-Treasurer",
+          "image": "/event-images/committee_2025/co_treasurer.jpg",
+          "linkedin": "https://in.linkedin.com/in/p-praneet",
+          "github": "https://github.com/nothingmatters4?"
+        },
+        {
+          "name": "Omkar Mahadik",
+          "position": "Technical Head",
+          "image": "/event-images/committee_2025/Technical_Head2025.jpg",
+          "linkedin": "https://www.linkedin.com/in/omkar-mahadik-976532283",
+          "github": "https://github.com/OmkarM9090"
+        },
+        {
+          "name": "Anamika Yadav",
+          "position": "Technical Co-Head",
+          "image": "/event-images/committee_2025/technical_co_head1.jpg",
+          "linkedin": "https://www.linkedin.com/in/anamika-yadav-961143300?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
+          "github": "https://github.com/cocomelonnnn"
+        },
+        {
+          "name": "Vishal Moota",
+          "position": "Technical Co-Head",
+          "image": "/event-images/committee_2025/technical_co_head2.jpg",
+          "linkedin": "https://www.linkedin.com/in/vishal-moota/",
+          "github": "https://github.com/vishalmoota"
+        },
+        {
+          "name": "Sumeet Tawte",
+          "position": "Media Head",
+          "image": "/event-images/committee_2025/Media_Head2025.jpg",
+          "linkedin": "https://www.linkedin.com/in/sumeet-tawte-40035a312?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
+          "github": "https://github.com/Sumeet1211"
+        },
+        {
+          "name": "Pranav Tiwari",
+          "position": "Media Co-Head",
+          "image": "/event-images/committee_2025/media_co_head1.jpg",
+          "linkedin": "https://www.linkedin.com/in/pranav-tiwari-7ab693347",
+          "github": "https://github.com/Pranav080"
+        },
+        {
+          "name": "Ariba Gazi",
+          "position": "Media Co-Head",
+          "image": "/event-images/committee_2025/media_co_head2.jpg",
+          "linkedin": "https://www.linkedin.com/in/ariba-gazi-51111a311/",
+          "github": "https://github.com/nothingmatters4?"
+        },
+        {
+          "name": "Parth Shinde",
+          "position": "Logistics Head",
+          "image": "/event-images/committee_2025/logistic_head.jpg",
+          "linkedin": "https://www.linkedin.com/in/parth-shinde-239286340/",
+          "github": "https://github.com/nothingmatters4?"
+        },
+        {
+          "name": "Afifah Walvatkar",
+          "position": "Logistics Co-Head",
+          "image": "/event-images/committee_2025/logistics_co_head1.jpg",
+          "linkedin": "https://www.linkedin.com/in/afifah-walvatkar-4b37b51b6/",
+          "github": "https://github.com/nothingmatters4?"
+        },
+        {
+          "name": "Kartik Ahuja",
+          "position": "Logistics Co-Head",
+          "image": "/event-images/committee_2025/logistics_co_head2.jpg",
+          "linkedin": "https://in.linkedin.com/in/p-praneet",
+          "github": "https://github.com/KARTIK-wiet"
+        }
+      ],
+      "2026-27": [
+        {
+          "highlight": "/event-images/committee_2026/core_committee2026.jpg"
+        },
+        {
+          "name": "Pranav Tiwari",
+          "position": "Chairperson",
+          "image": "/event-images/committee_2026/chairperson.jpeg",
+          "linkedin": "https://www.linkedin.com/in/pranav-tiwari-7ab693347",
+          "github": "https://github.com/hittydeveloper07"
+        },
+        {
+          "name": "Vedant Madiwal",
+          "position": "Secretary",
+          "image": "/event-images/committee_2026/secretary.jpg",
+          "linkedin": "https://www.linkedin.com/in/vedant-madiwal-0b2859313",
+          "github": "https://github.com/vedantmadiwal"
+        },
+        {
+          "name": "Rounak Singh",
+          "position": "Co-Secretary",
+          "image": "/event-images/committee_2026/co_secretary.jpg",
+          "linkedin": "https://www.linkedin.com/in/rounak-singh-557555389",
+          "github": "https://github.com/rounak-singh-2007"
+        },
+        {
+          "name": "Sai Padwal",
+          "position": "Treasurer",
+          "image": "/event-images/committee_2026/treasurer.jpg",
+          "linkedin": "https://www.linkedin.com/in/sai-padwal-5798a8332",
+          "github": "https://github.com/padwalsai5-cyber"
+        },
+        {
+          "name": "Soham Cherphale",
+          "position": "Documentation Head",
+          "image": "/event-images/committee_2026/documentation_head.jpg",
+          "linkedin": "https://www.linkedin.com/in/soham-cherphale-348b783bb",
+          "github": "https://github.com/001-Soham"
+        },
+        {
+          "name": "Raj Tribhuvane",
+          "position": "Technical Head",
+          "image": "/event-images/committee_2026/technical_head.jpg",
+          "linkedin": "https://www.linkedin.com/in/raj-tribhuvane-b58259375",
+          "github": "https://github.com/tribhuvaneraj-ship-it"
+        },
+        {
+          "name": "Nikhil More",
+          "position": "Technical Co-Head",
+          "image": "/event-images/committee_2026/technical_co_head1.jpg",
+          "linkedin": "https://www.linkedin.com/in/nikhil-more-586aa634b",
+          "github": "https://github.com/nik0407-code"
+        },
+        {
+          "name": "Vikas Yadav",
+          "position": "Technical Co-Head",
+          "image": "/event-images/committee_2026/technical_co_head2.jpg",
+          "linkedin": "https://www.linkedin.com/in/vikas-yadav-068307412",
+          "github": "https://github.com/vikas2806"
+        },
+        {
+          "name": "Soham Vaity",
+          "position": "Media Head",
+          "image": "/event-images/committee_2026/media_head.png",
+          "linkedin": "https://www.linkedin.com/in/soham-vaity-15567532",
+          "github": "https://github.com/sohamvaity-weddedmyth"
+        },
+        {
+          "name": "Srishti Pathak",
+          "position": "Media Co-Head",
+          "image": "/event-images/committee_2026/media_co_head1.jpg",
+          "linkedin": "https://www.linkedin.com/in/shrishti-pathak-63a0003a8",
+          "github": "https://github.com/shripathak29"
+        },
+        {
+          "name": "Vineet Poojary",
+          "position": "Media Co-Head",
+          "image": "/event-images/committee_2026/media_co_head2.jpg",
+          "linkedin": "https://www.linkedin.com/in/vineet-poojary-3558b13a3",
+          "github": "https://github.com/Vineet-spec"
+        },
+        {
+          "name": "Arnav Shedge",
+          "position": "Logistics Head",
+          "image": "/event-images/committee_2026/logistics_head.jpg",
+          "linkedin": "https://www.linkedin.com/in/arnav-shedge-823064439?utm_source=share_via&utm_content=profile&utm_medium=member_ios",
+          "github": "https://github.com/arnavshedge007-code"
+        },
+        {
+          "name": "Sahil Rangwani",
+          "position": "Logistics Co-Head",
+          "image": "/event-images/committee_2026/logistics_co_head1.jpg",
+          "linkedin": "https://www.linkedin.com/in/sahil-rangwani-b761a531a",
+          "github": "https://github.com/sahilrangwani85"
+        },
+        {
+          "name": "Mukti Chetwani",
+          "position": "Logistics Co-Head",
+          "image": "/event-images/committee_2026/logistics_co_head2.jpg",
+          "linkedin": "https://www.linkedin.com/in/mukti-chetwani-a0ba44365",
+          "github": "https://github.com/muktichetwani01"
+        }
+      ]
+    },
+    "home": {
+      "highlight": {
+        "groupPhoto": "/event-images/committee_2025/technokruti2025.jpg",
+        "groupPhotos": [
+          "/event-images/committee_2025/technokruti2025.jpg",
+          "/event-images/Highlight2025/day2.JPG",
+          "/event-images/Highlight2025/technokruti_Gate.JPG",
+          "/event-images/Highlight2025/Day_1.JPG",
+          "/event-images/Highlight2025/captai_compiler.JPG"
+        ],
+        "attendees": "100+",
+        "events": "12+",
+        "quote": "We empower students to lead, innovate, and build the future.",
+        "logoSrc": "/event-images/Events2025/csi_logo.png",
+        "nextEvent": "HackVerse Hackathon 2025",
+        "nextEventDate": "2025",
+        "registerUrl": "#",
+        "nextEventLogo": "/event-images/hackverse/hackverseimage.png"
+      },
+      "pressArticle": {
+        "image": "/event-images/hackverse/hackverse_newsarticle.jpeg",
+        "title": "HackVerse Hackathon Makes Headlines",
+        "source": "Tech News Daily",
+        "date": "April 2025",
+        "description": "CSI-WIET's flagship hackathon event gained recognition for fostering innovation and bringing together talented developers from across the region.",
+        "link": ""
+      }
+    },
+    "hackverse": {
+      "hero": {
+        "title": "HACKVERSE 2.0",
+        "subtitle": "24-hour cyber-futuristic hackathon built for builders who ship fast.",
+        "location": "WIET Campus · Labs + Arena",
+        "cta": "Apply to Hack"
+      },
+      "tracks": [
+        {
+          "title": "AI/ML",
+          "description": "Build intelligent systems with machine learning and data-driven models."
+        },
+        {
+          "title": "Cybersecurity",
+          "description": "Protect systems, detect threats, and build resilient security solutions."
+        },
+        {
+          "title": "FinTech",
+          "description": "Create secure, fast, and inclusive financial technology experiences."
+        },
+        {
+          "title": "Healthcare",
+          "description": "Develop health-first solutions that improve care and accessibility."
+        },
+        {
+          "title": "Edutech",
+          "description": "Build adaptive learning platforms, AI tutors, and engagement tools for students and educators."
+        },
+        {
+          "title": "Open Innovation",
+          "description": "Solve any real-world problem with bold, creative ideas."
+        }
+      ],
+      "gallery": [
+        "/event-images/hackverse/participants.JPG",
+        "/event-images/hackverse/prize_distribution.JPG",
+        "/event-images/hackverse/hackverse_decoration.JPG",
+        "/event-images/hackverse/hackverse_winner.JPG"
+      ],
+      "sponsors": [
+        {
+          "title": "Swami Enterprises",
+          "description": "Official sponsor for Hackverse 2.0.",
+          "logo": "/event-images/hackverse/Swami_Enterprises_logo.jpeg"
+        },
+        {
+          "title": "FA Engineering",
+          "description": "Official sponsor for Hackverse 2.0.",
+          "logo": "/event-images/hackverse/FA_enginerring.jpeg"
+        },
+        {
+          "title": "Aliff Overseas",
+          "description": "Official sponsor for Hackverse 2.0.",
+          "logo": "/event-images/hackverse/aliff_overseas.png"
+        },
+        {
+          "title": "Akbar Study Abroad",
+          "description": "Official sponsor for Hackverse 2.0.",
+          "logo": "/event-images/hackverse/Akbar.png"
+        },
+        {
+          "title": "MaiTech",
+          "description": "Official sponsor for Hackverse 2.0.",
+          "logo": "/event-images/hackverse/MaiTech_logo.jpeg"
+        },
+        {
+          "title": "Advocate Gajanan Chavan",
+          "description": "Official sponsor for Hackverse 2.0.",
+          "logo": "/event-images/hackverse/advocate_logo.png"
+        }
+      ],
+      "timeline": [
+        {
+          "id": "registration",
+          "title": "REGISTRATION & INTERVIEW",
+          "time": "12th February - 2nd March",
+          "status": "active",
+          "description": "Submit team info, resumes, and GitHub profiles. Selected teams invited for brief phone interviews.",
+          "position": "left-top",
+          "icon": "clipboard"
+        },
+        {
+          "id": "evaluation",
+          "title": "EVALUATION",
+          "time": "3rd - 4th March",
+          "status": "pending",
+          "description": "Jury reviews all submissions and selects top 50-55 teams for the final round.",
+          "position": "center-top",
+          "icon": "search"
+        },
+        {
+          "id": "shortlist",
+          "title": "ANNOUNCEMENT OF SHORTLISTED TEAM",
+          "time": "5th March",
+          "status": "pending",
+          "description": "Shortlisted teams announced. Selected teams receive final instructions and event details.",
+          "position": "right-top",
+          "icon": "trophy"
+        },
+        {
+          "id": "hackathon",
+          "title": "OFFLINE HACKATHON",
+          "time": "13th - 14th March",
+          "status": "pending",
+          "description": "24-hour build sprint at WIET. Teams develop solutions, present to judges, and compete for prizes.",
+          "position": "left-bottom",
+          "icon": "laptop"
+        },
+        {
+          "id": "winner",
+          "title": "ANNOUNCEMENT OF WINNER",
+          "time": "14th March",
+          "status": "pending",
+          "description": "Winners announced based on evaluation by expert jury. Prizes and certificates awarded.",
+          "position": "right-bottom",
+          "icon": "award"
+        }
+      ],
+      "shortlist": {
+        "status": "Preview",
+        "lastUpdated": "Feb 11, 2026 · 18:20 IST",
+        "pdfUrl": "https://drive.google.com/file/d/1MNmCHoVMPjj-Tx0aS2Z72-SPr6zpMMrH/view?usp=sharing",
+        "domains": [
+          "AI/ML",
+          "Blockchain",
+          "Web3",
+          "Cybersecurity",
+          "Open Innovation"
+        ],
+        "teams": [
+          {
+            "name": "Hidden Gems",
+            "domain": "AI/ML",
+            "team_leader": "DHRUV BANDIKATTE",
+            "status": "shortlisted"
+          },
+          {
+            "name": "Git&Run",
+            "domain": "AI/ML",
+            "team_leader": "Abhay Padgaonkar",
+            "status": "shortlisted"
+          },
+          {
+            "name": "DOMINATORS 4.0",
+            "domain": "AI/ML",
+            "team_leader": "Vansh Patil",
+            "status": "shortlisted"
+          },
+          {
+            "name": "Logout Brothers",
+            "domain": "AI/ML",
+            "team_leader": "Satyam Uttam Pandey",
+            "status": "shortlisted"
+          },
+          {
+            "name": "Revenge.exe",
+            "domain": "AI/ML",
+            "team_leader": "Nimish Tilwani",
+            "status": "shortlisted"
+          },
+          {
+            "name": "BLACKHAZE",
+            "domain": "AI/ML",
+            "team_leader": "Ayush Pathak",
+            "status": "shortlisted"
+          },
+          {
+            "name": "DebugDawgs",
+            "domain": "AI/ML",
+            "team_leader": "Krishna Chaurasia",
+            "status": "shortlisted"
+          },
+          {
+            "name": "Bit bye Bit",
+            "domain": "AI/ML",
+            "team_leader": "Eshaan Doshi",
+            "status": "shortlisted"
+          },
+          {
+            "name": "HackMatrix",
+            "domain": "AI/ML",
+            "team_leader": "DeepKumar Pandey",
+            "status": "shortlisted"
+          },
+          {
+            "name": "STRANGER STRINGS",
+            "domain": "AI/ML",
+            "team_leader": "Tanaya Jain",
+            "status": "shortlisted"
+          },
+          {
+            "name": "TheNextBigThing",
+            "domain": "AI/ML",
+            "team_leader": "Rudra Malvankar",
+            "status": "shortlisted"
+          },
+          {
+            "name": "Null Hypotheses",
+            "domain": "AI/ML",
+            "team_leader": "Nitish Singh",
+            "status": "shortlisted"
+          },
+          {
+            "name": "Sahastra",
+            "domain": "AI/ML",
+            "team_leader": "Atharva Khetale",
+            "status": "shortlisted"
+          },
+          {
+            "name": "Error Overflow",
+            "domain": "AI/ML",
+            "team_leader": "Lalit Hiraman Mahajan",
+            "status": "shortlisted"
+          },
+          {
+            "name": "CodeBusters",
+            "domain": "AI/ML",
+            "team_leader": "Aryan Vijay Balani",
+            "status": "shortlisted"
+          },
+          {
+            "name": "Tech Tribe",
+            "domain": "AI/ML",
+            "team_leader": "Amit Yadav",
+            "status": "shortlisted"
+          },
+          {
+            "name": "CodeFusion",
+            "domain": "AI/ML",
+            "team_leader": "Aaliya Khan",
+            "status": "shortlisted"
+          },
+          {
+            "name": "ChidiyaGHAR",
+            "domain": "Open Innovation",
+            "team_leader": "Rudraksh Zodage",
+            "status": "shortlisted"
+          },
+          {
+            "name": "CodeCrew",
+            "domain": "Open Innovation",
+            "team_leader": "Pratik Kalamabe",
+            "status": "shortlisted"
+          },
+          {
+            "name": "NullPointers",
+            "domain": "Open Innovation",
+            "team_leader": "Faiz Khan",
+            "status": "shortlisted"
+          },
+          {
+            "name": "The Core Four",
+            "domain": "Open Innovation",
+            "team_leader": "Arya Dalvi",
+            "status": "shortlisted"
+          },
+          {
+            "name": "Team Axiom",
+            "domain": "Open Innovation",
+            "team_leader": "Mohammad Sahil Khan",
+            "status": "shortlisted"
+          },
+          {
+            "name": "Team CrusheRs",
+            "domain": "Open Innovation",
+            "team_leader": "Prathmesh Kubde",
+            "status": "shortlisted"
+          },
+          {
+            "name": "Neural Nexus",
+            "domain": "Open Innovation",
+            "team_leader": "Soham Shimpi",
+            "status": "shortlisted"
+          },
+          {
+            "name": "Reality Crafters",
+            "domain": "Open Innovation",
+            "team_leader": "Jayesh Fatnani",
+            "status": "shortlisted"
+          },
+          {
+            "name": "Fukat Ke Coders",
+            "domain": "FinTech",
+            "team_leader": "Keerthik Shetty",
+            "status": "shortlisted"
+          },
+          {
+            "name": "HackHer Duo",
+            "domain": "FinTech",
+            "team_leader": "Sameera Jape",
+            "status": "shortlisted"
+          },
+          {
+            "name": "Plus One",
+            "domain": "FinTech",
+            "team_leader": "Tanish Virmani",
+            "status": "shortlisted"
+          },
+          {
+            "name": "devdynasty",
+            "domain": "FinTech",
+            "team_leader": "Vedant Kadam",
+            "status": "shortlisted"
+          },
+          {
+            "name": "BOOLEAN_PANDIT",
+            "domain": "FinTech",
+            "team_leader": "Parth Ratnaparkhi",
+            "status": "shortlisted"
+          },
+          {
+            "name": "AI Bytes",
+            "domain": "EduTech",
+            "team_leader": "Nikunj Raikundliya",
+            "status": "shortlisted"
+          },
+          {
+            "name": "Sentinels",
+            "domain": "EduTech",
+            "team_leader": "Rishabh Kanojiya",
+            "status": "shortlisted"
+          },
+          {
+            "name": "Techno Team",
+            "domain": "EduTech",
+            "team_leader": "Pranav Shinde",
+            "status": "shortlisted"
+          },
+          {
+            "name": "localhost404",
+            "domain": "EduTech",
+            "team_leader": "Qais Khan",
+            "status": "shortlisted"
+          },
+          {
+            "name": "Astella",
+            "domain": "EduTech",
+            "team_leader": "Karim Shaikh",
+            "status": "shortlisted"
+          },
+          {
+            "name": "Desi Coders",
+            "domain": "EduTech",
+            "team_leader": "Ayush Gupta",
+            "status": "shortlisted"
+          },
+          {
+            "name": "CNC",
+            "domain": "EduTech",
+            "team_leader": "Vipul Vikas More",
+            "status": "shortlisted"
+          },
+          {
+            "name": "Loop Learners",
+            "domain": "EduTech",
+            "team_leader": "Soham Ghodke",
+            "status": "shortlisted"
+          },
+          {
+            "name": "Unity",
+            "domain": "EduTech",
+            "team_leader": "Rajnish Pandey",
+            "status": "shortlisted"
+          },
+          {
+            "name": "Game of Codes",
+            "domain": "EduTech",
+            "team_leader": "Sudhanshu Nijap",
+            "status": "shortlisted"
+          },
+          {
+            "name": "ScriptMasters",
+            "domain": "EduTech",
+            "team_leader": "Kartik Pareek",
+            "status": "shortlisted"
+          },
+          {
+            "name": "JSHS",
+            "domain": "Cybersecurity",
+            "team_leader": "Hemant Jawale",
+            "status": "shortlisted"
+          },
+          {
+            "name": "Byte Devs",
+            "domain": "Cybersecurity",
+            "team_leader": "Sujal Jadhav",
+            "status": "shortlisted"
+          },
+          {
+            "name": "Nextdroid",
+            "domain": "HealthCare",
+            "team_leader": "Darryl Mathias",
+            "status": "shortlisted"
+          },
+          {
+            "name": "Photons",
+            "domain": "HealthCare",
+            "team_leader": "Vedant Borhade",
+            "status": "shortlisted"
+          },
+          {
+            "name": "Zephyrs",
+            "domain": "HealthCare",
+            "team_leader": "Atharva Vipin Deo",
+            "status": "shortlisted"
+          },
+          {
+            "name": "VisionX4",
+            "domain": "HealthCare",
+            "team_leader": "Abhishek Patil",
+            "status": "shortlisted"
+          },
+          {
+            "name": "CodeCrafter",
+            "domain": "HealthCare",
+            "team_leader": "Pranav Jyotish Praveen Maurya",
+            "status": "shortlisted"
+          },
+          {
+            "name": "RISKTakers",
+            "domain": "HealthCare",
+            "team_leader": "Shaukhya Patil",
+            "status": "shortlisted"
+          },
+          {
+            "name": "Order of the Phoenix",
+            "domain": "HealthCare",
+            "team_leader": "Shaan Edroos",
+            "status": "shortlisted"
+          },
+          {
+            "name": "Maverick Minds",
+            "domain": "HealthCare",
+            "team_leader": "Shubham Dalvi",
+            "status": "shortlisted"
+          },
+          {
+            "name": "DevArtisans",
+            "domain": "HealthCare",
+            "team_leader": "Richie Thomas",
+            "status": "shortlisted"
+          },
+          {
+            "name": "Tech Dynamos",
+            "domain": "HealthCare",
+            "team_leader": "Yogesh Shirke",
+            "status": "shortlisted"
+          },
+          {
+            "name": "Just Code It",
+            "domain": "HealthCare",
+            "team_leader": "Satyam Bhagat",
+            "status": "shortlisted"
+          },
+          {
+            "name": "Tech-Revolution",
+            "domain": "HealthCare",
+            "team_leader": "Aditya upadhyaya",
+            "status": "shortlisted"
+          }
+        ]
+      }
+    },
+    "devs": {
+      "2024-25": [
+        {
+          "name": "Udhay Chugh",
+          "position": "Web Developer",
+          "image": "/event-images/tech-head.jpg",
+          "linkedin": "https://www.linkedin.com/in/udhay-chugh-a7065b268/"
+        },
+        {
+          "name": "Shivam Pandey",
+          "position": "UI/UX Designer",
+          "image": "/event-images/media-head.jpg",
+          "linkedin": "https://www.linkedin.com/in/shivam-pandey7820/"
+        },
+        {
+          "name": "Aparna Prasad",
+          "position": "Web Developer",
+          "image": "/event-images/developer.jpg",
+          "linkedin": "https://www.linkedin.com/in/aparna-prasad-33554026a/"
+        }
+      ],
+      "2025-26": [
+        {
+          "name": "Omkar Mahadik",
+          "position": "Web Developer",
+          "image": "/event-images/committee_2025/Technical_Head2025.jpg",
+          "linkedin": "https://www.linkedin.com/in/omkar-mahadik-976532283",
+          "github": "https://github.com/OmkarM9090"
+        }
+      ]
+    },
+    "sponsors": [
+      {
+        "_id": "pasaydaan",
+        "name": "Pasaydaan",
+        "logoUrl": "/event-images/sponsors/Pasaydaan.jpg"
+      }
+    ]
+  }
+}

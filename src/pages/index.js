@@ -1,0 +1,6 @@
+export { HomePage } from './HomePage'
+export { EventsPage } from './EventsPage'
+export { EventDetails } from './EventDetails'
+export { Committee } from './Committee'
+export { FacultyPage } from './FacultyPage'
+export { DevelopersPage } from './DevelopersPage'

@@ -1,0 +1,94 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+html, body {
+  width: 100%;
+  min-height: 100dvh;
+  margin: 0;
+  padding: 0;
+}
+
+body {
+    overflow-x: hidden;
+}
+
+/* Mobile-specific optimizations to prevent flashing */
+@media (max-width: 768px) {
+  html, body {
+    overflow-x: hidden !important;
+    -webkit-tap-highlight-color: transparent;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+  }
+  * {
+    -webkit-user-select: none;
+    user-select: none;
+    -webkit-touch-callout: none;
+  }
+  button, a, input {
+    -webkit-user-select: auto;
+    user-select: auto;
+    -webkit-touch-callout: auto;
+  }
+}
+
+/* Theme background variable - updated from JS when toggling mode */
+:root {
+    --page-bg: #ffffff;
+}
+
+html.dark {
+    --page-bg: #0f1724;
+}
+
+/* Use the CSS variable so switching the theme updates immediately when the variable changes */
+body {
+    background: var(--page-bg);
+    transition: background-color 220ms ease;
+}
+
+@layer components {
+    @media only screen and (max-width: 992px) {
+        .po_relative {
+            position: relative;
+        }
+        .po_absolute {
+            position: absolute;
+            top: 69%;
+            left: 0;
+            width: 100%;
+        }
+        .flex-wrap {
+            flex-wrap: nowrap;
+        }
+        .logo-img {
+            width: auto; 
+            max-width: 150px; 
+        }        
+    }
+}
+/* Use only the custom animated cursor (hide native pointer) */
+* {
+    cursor: none !important;
+}
+
+/* Mobile touch optimization for Shortlist grid */
+@media (max-width: 768px) {
+  .neural-grid, 
+  [class*="grid"] {
+    -webkit-overflow-scrolling: touch;
+    scroll-behavior: smooth;
+  }
+  
+  .neural-field {
+    -webkit-overflow-scrolling: touch;
+  }
+  
+  /* Ensure touch events work properly */
+  button, a {
+    -webkit-user-select: auto;
+    user-select: auto;
+    -webkit-touch-callout: auto;
+  }
+}
